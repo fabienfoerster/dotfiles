@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#require sudo
 if test ! $(which google-chrome)
 then
 	echo "Installing a stable version of Google Chrome ..."
