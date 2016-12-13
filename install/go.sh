@@ -7,6 +7,6 @@ then
 fi
 
 gvm install go1.4 --binary
-gvm install go1.7.4 --binary
+gvm install go1.6.4 --binary
 
-gvm use go1.7.4 --default
+gvm use go1.6.4 --default
